@@ -1,12 +1,10 @@
 # K.E.V.I.N
 
 <div align="center">
-  <img src="./docs/static/img/eliza_banner.jpg" alt="Eliza Banner" width="100%" />
+  <img src="https://i.imgur.com/4S8E6A3.jpeg" alt="Eliza Banner" width="100%" />
 </div>
 
 <div align="center">
-
-📖 [Documentation](https://elizaos.github.io/eliza/) | 🎯 [Examples](https://github.com/thejoven/awesome-eliza)
 
 </div>
 
