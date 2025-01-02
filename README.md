@@ -8,9 +8,9 @@
 
 </div>
 
-# Kevin the Robotic Dog Companion 🤖🐾  
+# Kevin the Robotic K9 Companion 🤖🐾  
 
-**Kevin** is an advanced AI-powered robotic dog built to interact, learn, and entertain. Combining cutting-edge robotics with autonomous social media integration, Kevin brings together real-time Twitch chat commands and engaging Twitter (X) posts powered by [Eliza by a16z](https://github.com/ai16z/eliza). Whether performing tricks on command, sharing updates on X, or showcasing AI-driven intelligence, Kevin is a project that blends fun and innovation.
+**K.E.V.I.N** is an advanced AI-powered robotic dog built to interact, learn, and entertain. Combining cutting-edge robotics with autonomous social media integration, Kevin brings together real-time Twitch chat commands and engaging Twitter (X) posts powered by [Eliza by a16z](https://github.com/ai16z/eliza). Whether performing tricks on command, sharing updates on X, or showcasing AI-driven intelligence, Kevin is a project that blends fun and innovation.
 
 ---
 
